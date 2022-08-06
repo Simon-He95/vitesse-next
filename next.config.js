@@ -8,7 +8,7 @@ const nextConfig = {
   webpack: (config) => {
     config.plugins.push(UnoCSS())
     config.plugins.push(AutoImport({
-      imports: ['react']
+      imports: ['react'],
     }))
     return config
   },

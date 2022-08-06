@@ -65,7 +65,7 @@ We recommend using [VS Code](https://code.visualstudio.com/) with [Volar](https:
 If you prefer to do it manually with the cleaner git history
 
 ```bash
-npx degit nanakura/vitesse-next my-next-app
+npx degit Simon-He95/vitesse-next my-next-app
 cd my-next-app
 pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
 ```

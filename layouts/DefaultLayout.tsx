@@ -1,15 +1,15 @@
-import React, {useState} from "react"
-import Footer from "../components/Footer"
+import React from 'react'
+import Footer from '../components/Footer'
 
 React.useLayoutEffect = React.useEffect
 
-export default function DefaultLayout({children}: {children: React.ReactNode}) {
+export default function DefaultLayout({ children }: { children: React.ReactNode }) {
   return (
-    <div>
+		<div>
 			<main className="font-sans px-4 py-10 text-center text-gray-700 dark:text-gray-200">
 				{children}
-				<Footer/>
+				<Footer />
 			</main>
 		</div>
-  );
+  )
 }

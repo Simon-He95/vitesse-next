@@ -1,4 +1,4 @@
-import { useCounter } from "usehooks-ts"
+import { useCounter } from 'usehooks-ts'
 
 export default function Counter({ initial }: { initial: number }) {
   const { count, increment, decrement } = useCounter(initial ?? 0)
