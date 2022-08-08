@@ -58,7 +58,7 @@ We recommend using [VS Code](https://code.visualstudio.com/) with [Volar](https:
 
 ### GitHub Template
 
-[Create a repo from this template on GitHub](https://github.com/nanakura/vitesse-next/generate).
+[Create a repo from this template on GitHub](https://github.com/Simon-He95/vitesse-next/generate).
 
 ### Clone to local
 
